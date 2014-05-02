@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="tk.mygod.mobileTabletSwitcher.MainActivity" >
+    <item android:id="@+id/action_save_changes"
+          android:icon="@drawable/ic_menu_save"
+          android:title="@string/action_save_changes"
+          android:orderInCategory="1"
+          android:showAsAction="ifRoom" />
+    <item android:id="@+id/action_reboot"
+          android:icon="@drawable/ic_menu_refresh"
+          android:title="@string/action_reboot"
+          android:orderInCategory="2"
+          android:showAsAction="ifRoom" />
+    <item android:id="@+id/action_check_for_updates"
+          android:icon="@drawable/ic_menu_info_details"
+          android:title="@string/action_check_for_updates"
+          android:orderInCategory="3"
+          android:showAsAction="ifRoom" />
+</menu>

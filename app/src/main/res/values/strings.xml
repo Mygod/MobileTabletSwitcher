@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mobile/Tablet Switcher</string>
+    <string name="error">ERROR! </string>
+    <string name="title_section_cautions">CAUTIONS</string>
+    <string name="title_section_main">CONFIGURE</string>
+    <string name="radio_default">Device Default (%d dpi)</string>
+    <string name="radio_phone_small">Small Phone Mode (%d dpi)</string>
+    <string name="radio_phone_large">Large Phone Mode (%d dpi)</string>
+    <string name="radio_tablet_small">Small Tablet Mode (%d dpi)</string>
+    <string name="radio_tablet_large">Large Tablet Mode (%d dpi)</string>
+    <string name="radio_customize">Customize: (dpi)</string>
+    <string name="action_save_changes">Save changes</string>
+    <string name="action_reboot">Reboot</string>
+    <string name="action_check_for_updates">Check for Updates</string>
+    <string name="cautions">
+        <![CDATA[<p>
+            <b>YOUR DEVICE MAY BE BRICKED</b> so get a flashable zip or something else like that.
+            Mygod Studio™ will not be responsible for any problem caused by this app.
+            <b>USE IT AT YOUR OWN RISK!</b>
+        </p>
+
+        <p>When you\'ve done reading this, swipe to the right to begin your adventure!</p>]]>
+    </string>
+    <string name="instructions">
+        <![CDATA[<p><b>Quick Guide: </b>Pick a mode and press that save button and reboot to begin your adventure!</p>
+
+        <p><b>DPI: </b>DPI stands for Dots Per Inch. The smaller DPI is, the smaller the text and icons become and
+        the larger your screen gets. Simple as that.</p>
+
+        <p>
+            <b>Device Default: </b>DPI you were using when you first entered this app. Used for restoring!<br />
+            <b>Small Phone Mode: </b>Now isn\'t your phone small? Actually I would not recommend you to set a DPI
+            higher than this value, unless you would like to get some real fun.<br />
+            <b>Large Phone Mode: </b>Now you have a large-sized phone! Isn\'t that great?<br />
+            <b>Small Tablet Mode: </b>Now you have a 7-inch tablet! Some of the tablet features should be unlocked now,
+            and if you happened to be using Android 4.0.3 Ice Cream Sandwich, you\'ve unlocked ALL the tablet features
+            now!<br />
+            <b>Large Tablet Mode: </b>Now you have a 10-inch tablet! ALL THE TABLET FEATURES IS UNLOCKED in this mode!
+            Isn\'t that great?
+        </p>
+
+        <p>And finally, <b>the Customization</b>! With this mode, you can change your DPI to whatever you want.
+        Please note that if you picked a DPI between Small Tablet Mode and Large Tablet Mode,
+        the Small Tablet Mode will be triggered, if you picked a DPI between Phone Modes and Small Tablet Mode,
+        the Phone Modes will be triggered.</p>]]>
+    </string>
+    <string name="nothing_changed">BAM! Nothing changed.</string>
+    <string name="nailed_it">NAILED IT!</string>
+    <string name="please_wait">Please wait...</string>
+    <string name="checking_for_updates">Checking for updates...</string>
+    <string name="update_available">Update available.</string>
+    <string name="no_update_available">No update available.</string>
+    <string name="check_for_updates_failed">An error occurred when trying to check for updates.</string>
+    <string name="go_to_download_page">Go to Download Page</string>
+    <string name="go_to_product_page">Go to Product Page</string>
+    <string name="close">Close</string>
+</resources>

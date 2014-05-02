@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">手机/平板切换器</string>
+    <string name="error">错误！</string>
+    <string name="title_section_cautions">须知</string>
+    <string name="title_section_main">配置</string>
+    <string name="radio_default">设备默认值 (%d dpi)</string>
+    <string name="radio_phone_small">小手机模式 (%d dpi)</string>
+    <string name="radio_phone_large">大手机模式 (%d dpi)</string>
+    <string name="radio_tablet_small">小平板模式 (%d dpi)</string>
+    <string name="radio_tablet_large">大平板模式 (%d dpi)</string>
+    <string name="radio_customize">自定义：(dpi)</string>
+    <string name="action_save_changes">保存修改</string>
+    <string name="action_reboot">重启</string>
+    <string name="action_check_for_updates">检查更新</string>
+    <string name="cautions">
+        <![CDATA[<p>
+            <b>你的设备可能变砖</b>，因此请在使用前准备好刷机 zip 包或与其类似的东西。Mygod 工作室™ 将不会为此应用造成的任何不便负责。
+            <b>风险自负！</b>
+        </p>
+
+        <p>看完后滑到右边开始你的冒险！</p>]]>
+    </string>
+    <string name="instructions">
+        <![CDATA[<p><b>快速帮助：</b>选择一个模式后按下保存按钮后重启即可开始冒险！</p>
+
+        <p><b>DPI: </b>DPI (Dots Per Inch) 意为每英寸点数。DPI 越小，文字就越小，而你的屏幕就显得越大。就这么简单。</p>
+
+        <p>
+            <b>设备默认值：</b>即你第一次使用此设备时所使用的 DPI。用于恢复！<br />
+            <b>小手机模式：</b>这下你的手机够小的了吧？事实上我强烈不推荐你将 DPI 调整到比这项更高，除非你实在闲得蛋疼。<br />
+            <b>大手机模式：</b>这下你有了一个大号的手机！爽吧？<br />
+            <b>小平板模式：</b>这下你有了一个 7 英寸平板！如果你正好用的是 Android 4.0.3 Ice Cream
+            Sandwich，恭喜你现在已经解锁了所有的平板功能！<br />
+            <b>大平板模式：</b>这下你有了一个 10 英寸平板！你已经成功解锁了所有的平板功能！爽吧？
+        </p>
+
+        <p>最后是<b>自定义</b>！在这个模式中你可以想怎么改你的 DPI 就怎么改。请注意如果你的 DPI
+            介于小平板模式和大平板模式之间，则实际会使用小平板模式。 如果你的 DPI
+            介于手机模式和小平板模式之间，则实际会使用手机模式。</p>]]>
+    </string>
+    <string name="nothing_changed">砰！什么都没改变。</string>
+    <string name="nailed_it">恭喜你成功了！</string>
+    <string name="please_wait">请稍等……</string>
+    <string name="checking_for_updates">检查更新中……</string>
+    <string name="update_available">有可用更新。</string>
+    <string name="no_update_available">无可用更新。</string>
+    <string name="check_for_updates_failed">检查更新失败。</string>
+    <string name="go_to_download_page">前往下载页面</string>
+    <string name="go_to_product_page">前往产品页面</string>
+    <string name="close">关闭</string>
+</resources>
